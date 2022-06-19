@@ -5,6 +5,9 @@
 * Mercedes-benz
 * toyota
 * Land Rover
+* LADA
+* Kia
+* Hyndai
 
 # Список дел
 * [ ] Сделать дело

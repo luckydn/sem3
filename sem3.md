@@ -5,7 +5,7 @@
 * Mercedes-benz
 * toyota
 * Land Rover
-* LADA
+* LADA :sunglasses:
 * Kia
 * Hyndai
 
